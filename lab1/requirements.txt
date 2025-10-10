@@ -1,4 +1,4 @@
-ransformers==4.46.3 
+transformers==4.46.3 
 evaluate==0.4.6 
 seqeval==1.2.2 
 datasets==3.1.0 
