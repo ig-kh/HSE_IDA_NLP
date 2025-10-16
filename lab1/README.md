@@ -7,3 +7,4 @@ NER problem solution with BERT model.
 3) Before running notebook run:<br/>
    pip install -r requirements.txt<br/>
    Requirements file is so big because pip freeze was made in google colab env.
+4) For some reason notebook is not shown correctly in Github GUI, so please download it to explore
